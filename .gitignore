@@ -13,3 +13,8 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+composer.lock
+phpunit.xml
+vendor/composer/autoload_psr4.php
+vendor/composer/autoload_static.php
+vendor/composer/installed.php
